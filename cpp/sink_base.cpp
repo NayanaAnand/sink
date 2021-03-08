@@ -19,7 +19,7 @@ sink_base::sink_base(const char *uuid, const char *label) :
     loadProperties();
 
     input = new bulkio::InShortPort("input");
-    input->setLogger(this->_baseLog->getChildLogger("input", "ports"));
+    //input->setLogger(this->_baseLog->getChildLogger("input", "ports"));
     addPort("input", input);
 }
 
