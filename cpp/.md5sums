@@ -1,0 +1,10 @@
+7d00cb29aaa86748548ac30cb5240178  main.cpp
+b22548abb5f0ffe90e66bf75d4a0e8fb  sink_base.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+c1a01ea5f6d3241f730ace95ac282b50  configure.ac
+dec4062f16abd4afb532163dfb6ae2b5  Makefile.am
+5cdee85ca55dd0f8917a0d12013c4d9e  Makefile.am.ide
+0c1c20e0a4903d6031695313cae6c72f  sink.h
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
+f917d96aadb31c82ff40289bf73c3c6d  sink.cpp
+0991c0699e1a8da175a5faea8583dd7d  sink_base.h
